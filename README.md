@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Neural Network project (PyTorch, Numpy, Scikit-learn)
 
 - Designed and implemented a neural network model using PyTorch to classify iris flowers into Setosa, Versicolor, or Virginica species based on sepal and petal measurements.
