@@ -6,7 +6,6 @@
 
 **Description:**
 
-=======
 # Neural Network project (PyTorch, Numpy, Scikit-learn)
 - Designed and implemented a neural network model using PyTorch to classify iris flowers into Setosa, Versicolor, or Virginica species based on sepal and petal measurements.
   
@@ -16,14 +15,7 @@
 - Split the dataset into trainning and testing set
 - Converted NumPy arrays into PyTorch tensors to prepare for deep learning model training.
 
-<<<<<<< HEAD
 **Requirement:**
-
-- 1. Recommended using Anaconda
-=======
-
-**Requirement:**
-
 - 1. Recommended using Anaconda 
 - 2. Then Create conda environment
 - 3. For dependencies, please install pacakage requirements
