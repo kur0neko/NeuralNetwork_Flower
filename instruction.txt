@@ -1,0 +1,5 @@
+#instruction to run this project python -m venv tf_env
+source tf_env/bin/activate  # On Windows: tf_env\Scriptsctivate
+pip install --upgrade pip
+pip install -r requirements.txt
+
